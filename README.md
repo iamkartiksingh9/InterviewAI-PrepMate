@@ -237,9 +237,9 @@ ELEVENLABS_API_KEY=your_elevenlabs_key
 
 ## 👨‍💻 Built By
 
-**Kunal Puri**  
-AI x Web Engineer | E-Cell Leader | Product Innovator  
-[LinkedIn](https://linkedin.com/in/kunalpuri) | [GitHub](https://github.com/kunalpuri)
+**Kartikey Singh**  
+AI x Web Engineer | E-Cell Leader 
+[LinkedIn](https://www.linkedin.com/in/kartikey-singh-06924b2b7/) | [GitHub](https://github.com/iamkartiksingh9)
 
 ---
 
